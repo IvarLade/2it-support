@@ -10,7 +10,7 @@ Usage of information from this repo is "on own" responsibily
 
 
 ## Credits
-* Natnael
+* Slick_Back
 * Markus 
 * Phonphawit
 * Thomas
