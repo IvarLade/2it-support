@@ -13,5 +13,5 @@ Usage of information from this repo is "on own" responsibily
 * Slick_Back
 * Markus 
 * Phonphawit
-* Thomas
+* Thomas.
 * Vitalii 
